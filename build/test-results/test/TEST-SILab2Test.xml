@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-23T18:19:08" hostname="DESKTOP-3HCIEL1" time="0.014">
+  <properties/>
+  <testcase name="testEveryCondition()" classname="SILab2Test" time="0.014"/>
+  <system-out><![CDATA[Before all test
+aaaaa
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
