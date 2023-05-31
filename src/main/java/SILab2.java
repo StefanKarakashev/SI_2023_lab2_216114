@@ -34,12 +34,10 @@ public class SILab2 {
 
     public static void main(String[] args) {
 
-    }
+    }1
 
     public static boolean function(User user, List<User> allUsers) { //
-        if (user == null ||
-                user.getPassword() == null ||
-                user.getEmail() == null) { // 1
+        if (user == null || user.getPassword() == null || user.getEmail() == null) { //  1
             throw new RuntimeException("Mandatory information missing!"); // 2
         }
 
