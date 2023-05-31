@@ -5,7 +5,7 @@
 
 ###  Control Flow Graph
 
-https://imgur.com/a/rSwi7eH (Бројките на јазлите се искоментирано во "SILab2.java")
+https://imgur.com/a/rSwi7eH (Бројките на јазлите се искоментирани во "SILab2.java")
 
 ### Цикломатска комплексност
 
