@@ -34,7 +34,7 @@ public class SILab2 {
 
     public static void main(String[] args) {
 
-    }1
+    }
 
     public static boolean function(User user, List<User> allUsers) { //
         if (user == null || user.getPassword() == null || user.getEmail() == null) { //  1
