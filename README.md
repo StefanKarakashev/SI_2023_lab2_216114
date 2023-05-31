@@ -5,7 +5,7 @@
 
 ###  Control Flow Graph
 
-[https://imgur.com/a/f7qEIQc](https://imgur.com/a/kAAfRo6)
+[[https://imgur.com/a/f7qEIQc](https://imgur.com/a/kAAfRo6)](https://imgur.com/a/rSwi7eH)
 
 ### Цикломатска комплексност
 
